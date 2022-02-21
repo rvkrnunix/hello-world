@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning and wish you all the best </h1>
+   <h1> this is after setting up auto build trigger -- Thankyou, Happy Learning and wish you all the best </h1>
 
   
 </form>
